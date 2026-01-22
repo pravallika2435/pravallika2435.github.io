@@ -68,4 +68,4 @@ Institute of Business Management & Research | 2025
 Nehru BBA & BCA College | 2023  
 
 
-[⬇ Download CV (PDF)](/files/Resume_Pravalika.pdf){: .btn .btn--primary}
+[⬇ Download Resume (PDF)](/files/Resume_Pravalika.pdf){: .btn .btn--primary}
