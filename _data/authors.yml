@@ -1,13 +1,11 @@
 default:
-  name: "Pravalika S"
+  name: "Pravallika S"
   bio: "MBA Finance graduate with skills in financial analysis, budgeting, and corporate finance."
   location: "India"
   avatar: "profile.png"
 
-  email: "pravalika5505@gmail.com"
-  linkedin: "pravalikas5505"
+  email: "pravallika5505@gmail.com"
+  linkedin: "pravallikas5505"
   phone: "+91-9535110796"
-  
-sitemap:
-  name: "add your name"
+
 
